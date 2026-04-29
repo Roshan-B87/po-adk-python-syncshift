@@ -1,0 +1,50 @@
+PATIENT ADMISSION NOTE
+Department: Intensive Care Unit (ICU)
+Date: October 24, 2023
+Time: 14:30
+
+CHIEF COMPLAINT:
+Shortness of breath and severe chest pain.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 65-year-old male presenting to the emergency department with acute onset of crushing chest pain radiating to the left arm, accompanied by diaphoresis and severe dyspnea. Symptoms started approximately 2 hours prior to arrival while shoveling snow. Patient took one sublingual nitroglycerin without relief.
+
+PAST MEDICAL HISTORY:
+1. Type 2 Diabetes Mellitus (diagnosed 10 years ago)
+2. Essential Hypertension
+3. Hyperlipidemia
+4. History of smoking (quit 5 years ago, 20 pack-year history)
+
+CURRENT MEDICATIONS:
+- Metformin 500mg PO twice daily
+- Lisinopril 10mg PO daily
+- Atorvastatin 40mg PO at bedtime
+
+ALLERGIES:
+Penicillin (causes severe hives and anaphylaxis)
+
+PHYSICAL EXAMINATION:
+- Vitals: BP 165/95, HR 110 (tachycardic), RR 24, Temp 98.6F, SpO2 92% on room air.
+- General: Patient appears in acute distress, diaphoretic and clutching chest.
+- Cardiovascular: Tachycardic, regular rhythm. No murmurs, rubs, or gallops.
+- Respiratory: Tachypneic. Bilateral basal crackles noted on auscultation.
+
+DIAGNOSTIC DATA:
+- ECG: ST-segment elevation in leads V1-V4 (Anterior STEMI).
+- Troponin I: Elevated at 2.4 ng/mL.
+- Chest X-ray: Mild pulmonary congestion, no cardiomegaly.
+
+ASSESSMENT:
+1. Acute Anterior ST-Elevation Myocardial Infarction (STEMI).
+2. Acute Hypoxemic Respiratory Failure secondary to mild pulmonary edema.
+3. Uncontrolled Hypertension.
+
+PLAN:
+1. Activate Cath Lab for emergent percutaneous coronary intervention (PCI).
+2. Administer Aspirin 324mg chewed stat.
+3. Start Heparin drip per ACS protocol.
+4. Administer high-flow oxygen via nasal cannula to maintain SpO2 > 94%.
+5. Consult Cardiology immediately.
+6. Transfer to Cardiac ICU post-procedure.
+
+Signed: Dr. Sarah Jenkins, MD, Attending Cardiologist
