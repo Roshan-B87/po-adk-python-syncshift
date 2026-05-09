@@ -1,0 +1,30 @@
+HOSPITAL DISCHARGE SUMMARY
+Date of Admission: October 10, 2023
+Date of Discharge: October 15, 2023
+
+PATIENT INFO:
+Name: [Matches FHIR Patient]
+Age: 72
+DOB: 05/14/1951
+
+ADMISSION DIAGNOSIS:
+1. Acute Exacerbation of Chronic Obstructive Pulmonary Disease (COPD)
+2. Community-Acquired Pneumonia (Right Lower Lobe)
+
+HOSPITAL COURSE:
+The patient presented to the ER with severe dyspnea, a productive cough, and a fever of 102.1F. Chest X-ray confirmed right lower lobe consolidation. The patient was admitted to the general medical floor and started on IV Ceftriaxone and Azithromycin. Bronchodilator therapy (Albuterol/Ipratropium nebulizers) was administered every 4 hours. By hospital day 3, the patient's fever resolved, and oxygen requirements decreased from 4L nasal cannula to room air. Sputum cultures returned positive for Streptococcus pneumoniae. 
+
+DISCHARGE INSTRUCTIONS & MEDICATIONS:
+1. Finish the remaining 5-day course of oral Amoxicillin-Clavulanate 875/125 mg twice daily.
+2. Prednisone 40 mg daily for 5 days, then stop.
+3. Continue home Symbicort inhaler (2 puffs twice daily).
+4. Use Albuterol inhaler 1-2 puffs every 4-6 hours PRN for shortness of breath.
+5. Follow up with Primary Care Physician in 1 week.
+
+PENDING LABS AT DISCHARGE:
+None.
+
+CONDITION AT DISCHARGE:
+Stable. Breathing comfortably on room air.
+
+Signed: Dr. Emily Chen, MD, Internal Medicine
